@@ -9,7 +9,6 @@ This project aims to predict loan defaults using a dataset of financial data. Th
 1. train.csv: Contains the training data used for building the model. It includes features like loan amount, credit score, income, employment details, and a target variable `Default` (1 for default, 0 for no default).
 2. test.csv: Contains the test data used for predicting loan defaults. The test data doesn't have the target variable `Default`, which is predicted using the model.
 3. Lend-or-Lose-Final.ipynb: The main notebook containing the code for data preprocessing, feature engineering, model building, evaluation, and final prediction. This includes multiple machine learning models and their evaluation metrics.
-4. Miscellaneous: A folder containing rough/experimental code in `.ipynb` files. These are intermediate steps and attempts used in the development of the final model.
 
 ## How to Use
 
