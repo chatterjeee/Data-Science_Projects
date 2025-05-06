@@ -73,7 +73,6 @@ Lend-or-Lose/
 ├── train.csv              # Training data
 ├── test.csv               # Test data
 ├── Lend-or-Lose-Final.ipynb  # Main notebook with ML models and code
-└── Miscellaneous/         # Folder with rough codes in .ipynb format
 ```
 
 ## Model Evaluation
